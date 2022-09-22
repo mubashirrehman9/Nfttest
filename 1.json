@@ -1,0 +1,26 @@
+{
+    "name": "test-car-1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT1nusaNnoKQgjPNxFJG2ga12vngz3oKBRoqa7jhHLMQh/01.png",
+    "description": "This is Yellow car",
+    "attributes":[
+        {
+      "trait_type": "MaxSpeed", 
+      "value": 17
+    },
+    {
+      "trait_type": "Acceleration", 
+      "value": 6
+    },
+        {
+      "trait_type": "Nitro", 
+      "value": 25
+    },  {
+      "trait_type": "SteeringPower", 
+      "value": 3
+    },
+    {
+    "trait_type": "Color", 
+      "value": "Yellow"
+    }
+     ]
+  }
